@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=CS Pin=P1-3
+Added Pin To Net: NetName=CLK Pin=P1-4
+Added Pin To Net: NetName=DI Pin=P1-5
+Added Pin To Net: NetName=DO Pin=P1-6
+Added Pin To Net: NetName=WP Pin=P1-7
+Added Pin To Net: NetName=HOLD Pin=P1-8
+Added Room: Name=spiflash
